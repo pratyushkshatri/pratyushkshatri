@@ -7,16 +7,11 @@ personal projects that are I find interseting. This is mostly for the purpose of
 impossible as an immigrant with no working experience - still hoping for the best) as a data scientist with my main
 area of interest being using RNN's on real-time data.
 
-I am proficient in Python, R, and SQL; most of the projects uploaded here are in these scripting languages.
+I am proficient in Python and its libraries relted to data science so most of the projects uploaded here are in this
+scripting languages.
 
 Please feel free to have a look and suggest any changes that you can think of. Any help in improving my skill set is
 greatly appreciated.
 
 
 Thank you and happy coding.
-
-Updates:
-
-- 08/11/2023: I was recently researching online about using ensamble learning for a project involving prediction of
-              real-time Bitcoin prices using multiple sources of information. Although this topic is very interesting,
-              I have no idea on how to approach it but I will continue working on this.
