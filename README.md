@@ -11,7 +11,7 @@ What you'll find here?
   3. A sprinkle of personal initiatives that I found too intriguing to resist.
 
 Why this profile exists?
-  As an immigrant navigating the job market (yes, it’s as challenging as it sounds!), I’m showcasing my work here to connect with opportunities in the data science world.
+  As an enthusiastic data scientist navigating the job market, I’m showcasing my work here to connect with opportunities in the data science world.
 
 How you can help?
   1. Feedback: Have suggestions or tips? I’m all ears!
